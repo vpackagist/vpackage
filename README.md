@@ -1,6 +1,6 @@
 # vpackage
 
-VPackage is the central place to store the libraries json files.
+VPackagist is the main [Vanat](https://github.com/vanat/vanat) repository. Request via issue the inclusion of new Vala public packages to be added.
 
 -----------------------
 
